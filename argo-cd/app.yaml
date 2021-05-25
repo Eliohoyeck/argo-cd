@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Eliohoyeck/docker-development-youtube-series.git
+    repoURL: https://github.com/Eliohoyeck/argo-cd.git
     targetRevision: HEAD
-    path: argo/example-app
+    path: example-app
     directory:
       recurse: true
   destination:
